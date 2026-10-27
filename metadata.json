@@ -1,0 +1,6 @@
+{
+  "name": "PLYHUB — Play Your World",
+  "description": "An original 3D social adventure game created by Bilal featuring exploration of floating celestial islands, magical energy crystals, parkour time trials, customizable companions, and ancient gateways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
